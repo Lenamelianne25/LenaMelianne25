@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 My name is Lena-Melianne Sarr
+👋 Lena-Melianne Sarr - an aspiring Analyst.
 🎯 **Analyst | SQL | Python | R | Power BI | Tableau**  
 
 I analyze data to uncover trends, optimize decison-making, promote process improvement and drive business impact. My background includes financial and contract analysis, ensuring security and compliance with GAAP and OMB regulations while improving reporting efficiency. To elevate this experience, my knowledge in SQL, Python, Power BI, Tableau and R is continuously growing along with my passion for continous learning, data vizualization, automation, and statistical analysis. 
@@ -29,7 +29,7 @@ I am eager to contribute my knowledge and provide solutions to business needs to
 - **Data Processing:** Pandas, NumPy, Power Query  
 - **Databases:** PostgreSQL, MySQL  
 - **Others:** Excel, ETL Pipelines
-- **Financial & Business Analysis**: Forecasting, KPI devolpment,
+- **Financial & Business Analysis**: Forecasting, KPI development,
   Cost benfit anaysis, grants and contracts, GAAP, OMB Compliance.
 
 ---
