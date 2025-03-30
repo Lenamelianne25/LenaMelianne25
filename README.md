@@ -53,6 +53,6 @@ I am eager to contribute my knowledge and provide solutions to business needs to
 ---
 
 ## 📫 Connect with Me  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [Lena-Melianne Sarr](https://linkedin.com/in/lena-melianne-sarr)  
 - Portfolio: [Your Portfolio](https://yourwebsite.com)  
 - Email: LenaMeliannesarr@gmail.com
